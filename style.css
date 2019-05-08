@@ -1,0 +1,24 @@
+*{box-sizing: border-box; margin: 0; padding: 0;}
+
+#container {
+	width: 100%;
+}
+
+.containerHeader {
+	width: 100vw;
+	height: 10vh;
+	display: flex;
+	background: red;
+}
+
+.containerHeader__image {
+	width: 60px;
+	height: 60px;
+}
+
+nav {
+	/*width: 50vw;
+	height: 50vh;
+	*/
+	background: lightblue;
+}
